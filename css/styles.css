@@ -33,8 +33,18 @@ letter-spacing: 0.03 em;
 color: var(--logo-color);
 }
 
+.logo-web {
+color: black;
+font-family: "Raleway";
+font-style: normal;
+font-weight: bold;
+font-size: 26 px;
+line-height: 1.23;
+letter-spacing: 0.03 em;
+}
+
 .nav-list-main{
-color: var(--title-color);
+ color: var(--title-color);
 font-weight: 500;
 font-size: 14 px;
 line-height: 1.14;
